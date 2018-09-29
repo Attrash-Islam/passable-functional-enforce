@@ -1,7 +1,7 @@
 {
   "name": "passable-functional-enforce",
   "version": "1.0.1",
-  "description": "Fiverr's Passable Functional Enforce",
+  "description": "Fiverr's Passable Functional Enforce Without 'Class' nor 'this'",
   "scripts": {
     "example01": "ts-node Examples/example01.ts -p tsconfig.json"
   },
