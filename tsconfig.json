@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "inlineSourceMap": true,
+        "noUnusedLocals": true,
+        "lib": [
+            "dom",
+            "scripthost",
+            "es5",
+            "es2015.promise"
+        ],
+    }
+}

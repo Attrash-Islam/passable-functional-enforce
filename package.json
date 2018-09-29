@@ -1,0 +1,17 @@
+{
+  "name": "passable-functional-enforce",
+  "version": "1.0.1",
+  "description": "Fiverr's Passable Functional Enforce",
+  "scripts": {
+    "example01": "ts-node Examples/example01.ts -p tsconfig.json"
+  },
+  "dependencies": {},
+  "author": "Islam Attrash <isattrash@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "10.5.2",
+    "ts-node": "7.0.1",
+    "tslint": "5.11.0",
+    "typescript": "3.0.3"
+  }
+}
